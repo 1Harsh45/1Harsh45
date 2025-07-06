@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Harshal Meshram
 **A passionate & goal driven || Full Stack Web Developer || from India**
 
-Email Me 👉 ✉️ **harshalmeshram718@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently learning:** Advanced React, TypeScript, system design, Docker and Kubernates.
 - 🌱 **I’m currently focused on:** landing a full-time role in the IT industry, where I can apply my development skills, contribute to exciting projects, and grow with a collaborative team. I’m especially
                                    interested in companies that value clean code, innovation, and learning culture.
